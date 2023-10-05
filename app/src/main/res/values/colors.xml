@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="view">#FFAE00</color>
+    <color name="green">#009688</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="orange">#FF9800</color>
+    <color name="perple_200">#512A96</color>
+    <color name="dark">#221F1F</color>
+    <color name="drange">#FFC107</color>
+    <color name="perple_100">#8A53EE</color>
+    <color name="perple_500">#42207E</color>
+</resources>
